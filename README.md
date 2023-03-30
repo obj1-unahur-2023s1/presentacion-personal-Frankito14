@@ -1,6 +1,5 @@
-<img src="https://i.scdn.co/image/ab6761610000e5eb1bb85fb4349fd61b46151fb4" alt="Logo de la vela puerca" style="width: 30%;">
-
 ## Objetos 1 - Comisión2 T.Mañana  
+<img src="https://i.scdn.co/image/ab6761610000e5eb1bb85fb4349fd61b46151fb4" alt="Logo de la vela puerca" style="width: 30%;">
 Hola, soy Franco Orellana  
 (Pero me dicen Frankito :nerd_face:)  
 
