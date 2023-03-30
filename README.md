@@ -1,7 +1,7 @@
 ![Logo La vela puerca](https://i.scdn.co/image/ab6761610000e5eb1bb85fb4349fd61b46151fb4)
 
-<h1> Objetos 1 - Comisión2 T.Mañana </h1>  
-Hola,soy Franco Orellana  
+## Objetos 1 - Comisión2 T.Mañana  
+Hola, soy Franco Orellana  
 (Pero me dicen Frankito :nerd_face:)  
 
 ```
@@ -9,7 +9,17 @@ function estudiosActuales(){
     return ("Soy estudiante de la tecnicatura universitaria en programación en la Unahur");
 }
 ```
-## Contacto (todo re pelado):monocle_face:
+## Materias aprobadas :book:
+- Introducción a lógica y problemas computacionales
+- Matemática para informática I
+- Organización de computadoras I 
+- Nuevos entornos y lenguajes
+- Taller de lenguajes de marcado y tecnologías web
+- Programación estructurada
+- Matemática para Informática II
+- Inglés I
+
+## About me (todo re pelado):monocle_face:
 - [x] [Portafolio](https://portafolio-franco-orellana.netlify.app/)
 - [x] [Github](https://github.com/Frankito14)
 - [x] [Linkedin](https://www.linkedin.com/in/franco-orellana-88938020b/)
