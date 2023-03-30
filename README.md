@@ -1,5 +1,4 @@
-![Logo La vela puerca](https://i.scdn.co/image/ab6761610000e5eb1bb85fb4349fd61b46151fb4)
-<img src="https://i.scdn.co/image/ab6761610000e5eb1bb85fb4349fd61b46151fb4" alt="Logo de la vela puerca" style="width: 10%; text-align: center; margin:auto;">
+<img src="https://i.scdn.co/image/ab6761610000e5eb1bb85fb4349fd61b46151fb4" alt="Logo de la vela puerca" style="width: 30%;">
 
 ## Objetos 1 - Comisión2 T.Mañana  
 Hola, soy Franco Orellana  
