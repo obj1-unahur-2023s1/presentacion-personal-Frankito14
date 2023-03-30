@@ -1,8 +1,8 @@
-![Logo La vela puerca](https://i.scdn.co/image/48a8b51923d52e51c82ef4831d41101689722f6d)
+![Logo La vela puerca](https://i.scdn.co/image/ab6761610000e5eb1bb85fb4349fd61b46151fb4)
 
-Bienvenidos a
-# Hola, me llamo Franco Orellana :nerd_face:
-(Pero me dicen Frankito)
+#Obejtos 1 - Comisión2 T.Mañana
+Hola,soy Franco Orellana
+(Pero me dicen Frankito :nerd_face:)
 
 ```
 function estudiosActuales(){
