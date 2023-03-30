@@ -5,8 +5,10 @@ Hola, soy Franco Orellana
 (Pero me dicen Frankito :nerd_face:)  
 
 ```
-function estudiosActuales(){
-    return ("Soy estudiante de la tecnicatura universitaria en programación en la Unahur");
+function informacionPersonal(){
+    estudiosActuales =  "Estudiante de Programación";
+    universidadActual = "Unahur";
+    peliculaFavorita = "Shrek 2";
 }
 ```
 ## Materias aprobadas :book:
@@ -19,13 +21,13 @@ function estudiosActuales(){
 - Matemática para Informática II
 - Inglés I
 
-## About me (todo re pelado):monocle_face:
+## About me (todo re pelado):computer:
 - [x] [Portafolio](https://portafolio-franco-orellana.netlify.app/)
 - [x] [Github](https://github.com/Frankito14)
 - [x] [Linkedin](https://www.linkedin.com/in/franco-orellana-88938020b/)
 
 
-## Links importantes para tener a mano:monocle_face:
+## Links importantes para tener a mano:star:
 - [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
 - [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
 - [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
