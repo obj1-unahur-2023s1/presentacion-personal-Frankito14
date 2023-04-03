@@ -1,5 +1,5 @@
 ## Objetos 1 - Comisión2 T.Mañana  
-<img src="https://img.freepik.com/vector-premium/emoji-cara-nerd-emoticon-inteligente-gafas_3482-1932.jpg?w=20004" alt="yo" style="width: 20%; margin:auto;">
+<img src="https://cdn1.epicgames.com/salesEvent/salesEvent/amoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075" alt="yo" style="width: 50%; margin:auto;">
 Hola, soy Franco Orellana  
 (Pero me dicen Frankito)  
 
